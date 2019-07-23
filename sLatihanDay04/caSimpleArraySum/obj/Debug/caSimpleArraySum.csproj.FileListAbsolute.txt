@@ -1,0 +1,6 @@
+C:\Batch205\day04\sLatihanDay04\caSimpleArraySum\bin\Debug\caSimpleArraySum.exe.config
+C:\Batch205\day04\sLatihanDay04\caSimpleArraySum\bin\Debug\caSimpleArraySum.exe
+C:\Batch205\day04\sLatihanDay04\caSimpleArraySum\bin\Debug\caSimpleArraySum.pdb
+C:\Batch205\day04\sLatihanDay04\caSimpleArraySum\obj\Debug\caSimpleArraySum.csprojResolveAssemblyReference.cache
+C:\Batch205\day04\sLatihanDay04\caSimpleArraySum\obj\Debug\caSimpleArraySum.exe
+C:\Batch205\day04\sLatihanDay04\caSimpleArraySum\obj\Debug\caSimpleArraySum.pdb
